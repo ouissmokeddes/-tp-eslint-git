@@ -1,7 +1,7 @@
 function additionner(a, b) {
     let result = a + b;
     console.log("Le résultat est", result);
-    return result;
+    return result;  
 }
 
 function division(x, y) {

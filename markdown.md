@@ -38,3 +38,10 @@ asma@asma-XPS-13-9305:~/Documents/tp-eslint-git$
 
 
 # ETAPE 3 : Intégration avec Git Hooks (Husky)
+Pas d'erreurs
+
+# ETAPE 4 : Configuration avancée d’ESLint
+-- J’ai essayé d’ajouter des règles personnalisées dans le fichier eslint.config.mjs, mais je n’ai pas réussi à le faire fonctionner correctement à cause d’erreurs de parsing liées au type de module (commonjs vs module). Après plusieurs tentatives, j’ai gardé la configuration par défaut sans les règles avancées.
+
+
+# ETAPE 5 : Mise en place de GitHub Actions
